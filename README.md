@@ -1,1 +1,1 @@
-<center><img src="https://basil.cafe/img/buttons/luckystar.gif" width="188px"></a></center>
+Welcome to my website! Here you can learn about me, and stuff!
