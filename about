@@ -3,12 +3,13 @@
 <title>thetoastedpotato's website</title>
 <link rel="icon" type="image/x-icon" href="favicon.ico">
 <link rel="stylesheet" href="StyleSheet1.css">
-<nav>
-  <a href="https://thetoastedpotato.github.io">Home</a>
-  <a href="about">About Me!</a>
-  <a href="#">Contact Me!</a>
-  <a href="#">Some Cool Links</a>
-</nav>
+<div class="links">
+			<a href="/about" class="link astro-J7PV25F6">About Me</a>
+			/
+			<a href="/index.html" class="link astro-J7PV25F6">home</a>
+			/
+			<a href=""></a>
+</div>
 <br>
 <p>
 <center>Hai, I'm potato! :3</center>
