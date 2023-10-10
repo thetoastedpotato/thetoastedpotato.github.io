@@ -14,7 +14,7 @@
 </div>
 </nav>
 <br>
-<center><img src="https://basil.cafe/img/buttons/luckystar.gif" width="188px"></a></center>
+<center><img src="https://basil.cafe/img/buttons/luckystar.gif" width="188px"></center>
 <center>Welcome to my website!</center>
 <center>Here you can find out stuff about me!</center>
   </body>
