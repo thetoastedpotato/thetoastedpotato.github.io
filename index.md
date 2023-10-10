@@ -6,9 +6,9 @@
 <body>
 <nav>
 <div class="links">
-<a href="/about">About Me</a>
+<a href="/about.md">About Me</a>
 /
-<a href="/index.html">Home</a>
+<a href="thetoastedpotato.github.io">Home</a>
 /
 <a href="">contact</a>
 </div>
