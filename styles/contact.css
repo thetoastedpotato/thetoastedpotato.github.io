@@ -42,3 +42,7 @@ color: black;
 .discord:hover {
 color: #5865F2;
 }
+a { 
+    color: inherit;
+    text-decoration: inherit;
+}
