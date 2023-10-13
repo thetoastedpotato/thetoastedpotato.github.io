@@ -5,11 +5,18 @@
 <link rel="icon" type="image/x-icon" href="favicon.ico">
 <link rel="stylesheet" href="styles/StyleSheet1.css">
 <center><img src="https://basil.cafe/img/buttons/luckystar.gif" width="188px"></center>
-<center>Welcome to my website!</center>
+<center class="noscroll">Welcome to my website!</center>
 <center>Here you can find out stuff about me!</center>
 <style>
       .img-container {
         text-align: center;
+      }
+      .noscroll::-webkit-scrollbar {
+         display: none; 
+}
+      .noscroll {
+         -ms-overflow-style: none;
+          scrollbar-width: none;
       }
 </style>
 </head>
