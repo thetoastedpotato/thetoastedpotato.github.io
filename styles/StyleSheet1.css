@@ -5,3 +5,7 @@ a {
     color: #f0fff0;
     text-decoration: inherit;
 }
+.img-container {
+          text-align: center;
+           bottom:0;
+      }
