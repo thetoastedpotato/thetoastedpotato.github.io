@@ -27,8 +27,8 @@ transform: scale(1.5);
 .lastfm:hover {
 color: red;
 }
-.facebook:hover {
-color: blue;
+.reddit:hover {
+color: orange;
  }
 .instagram:hover {
 color: #e11d74;
