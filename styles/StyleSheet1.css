@@ -7,10 +7,16 @@ a {
 }
 .img-container {
           text-align: center;
-      }
+}
 p {
   text-align: center;
 }
 .wrap {
   text-wrap: wrap;
+audio#buddyhollysound {
+  position: absolute;
+  top: -5px;
+  left: -5px;
+  z-index: 2;
+  opacity: 0.01;
 }
