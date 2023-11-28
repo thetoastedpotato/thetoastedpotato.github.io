@@ -9,7 +9,8 @@ a {
           text-align: center;
 }
 p {
-  margin: 1em;
+  text-align: center;
+  padding: 1m;
 }
 .wrap {
   text-wrap: wrap;
