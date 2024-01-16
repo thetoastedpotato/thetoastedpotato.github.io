@@ -42,6 +42,9 @@ color: black;
 .discord:hover {
 color: #5865F2;
 }
+.steam:hover {
+  color: black;
+}
 a { 
     color: inherit;
     text-decoration: inherit;
